@@ -27,7 +27,6 @@ namespace Ecuacion
             if ((aresult == true) && (bresult == true) && (cresult == true))
             {
                 salidaan = int.Parse(a);
-
                 salidabn = int.Parse(b);
                 salidacn = int.Parse(c);
                 if ((salidaan == 0) || (salidabn == 0))
